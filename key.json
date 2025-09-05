@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "comex-471223",
+  "private_key_id": "e0eae17a1b6ddb60d3a9fdda9e865be9e247018c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQDnSihEI+NVykuR\n2u7+uVTRIPrdqH/aOxLMqFmKpiM3i+ixprkdjt6eBl0d0Kvgbqf5+eWf1ar8Tm23\ncpP3ae/jACpBS34VE4jDsUOIOHm6b7DeEEZG6xLMO4+zFVqmG2faOVfi0m46X7IK\n/ftmBNVy994f/1whEsImlWYgF4G1VGbv7CTENgM9sfYJLWL2oyUinBGVwwh27zIa\n2QxBo6sCpBlmailbl9KYAdz+88W56YnioqC82VVFrYIv9e0/Vk0YJC4UvyDZqLzb\ntl2PYYIo8lsF6LjGiZZ+qj0CXqMxoetoQXe32AWRBQhpPAZzYHs7NPtCYGNWUfCi\nlRmkXVijAgMBAAECgf9XqXwShg21wOjNNm/Ovc3PPA3e0R4uEKOfvqRgCw1tq3y2\nElh56mmQ785KcZxYMvL3MIg7UUPxrD15wIA2wt2Y1X6g+iBMRPqJs6YLGRuBO2Nk\ntJ1vsnnJnbuaAGTVIZsMjnWyJYuNTLnOvCa2tWyBZ+vZa8M7fihMPbdohQzg765y\nunT5tG44BpldQ0td5MamkhBUdvN1jXUOE33TjTGyXyzzIGD+G4hrX5bfHBVoKRFq\nubUzN2PhZRwe6324bRYAkJHv4oGuOHpZVx3OTYV+dPfyycDvgUQlDcObHtA8EhZB\nXBc4l5cZVh9/MXTLxKNOctKKFNjnq6CmFukG8PkCgYEA+ydLS1hvwdLfxwZ6wgt6\nUdt82avX02VORFcQuV/c5V0/c7uQVIR9s20IMSi3fqFt0LpShlYq6V1NKPzmHotn\nBkcxm1yhmaqmGS2l1jzQ1yniqAdPXMdIWLDz9Rj/ZwobpvvoMmmiDOaqG5vD/In7\ncUmrKiFy74p8BXj9QpTnrdcCgYEA68C8PdGBhGJatWvs/3KyyU2MEZueOLbOVmqv\nWPZ495mWHY02yQ+iAgzsnok4nbEOvORRQt0+e+A9znD4ju4QL9ceAIsR8rDd9Jmo\nYm5lFOoRoqa+sve91e5jxarYT0njtblEM1ai8zI9B3uBtWqD61VbmQtkmTriUdJa\nHS7l2hUCgYADZTaZYCqynh00XZwPP4R50tPPRYl3bCkwt1ScjPU5jJctA14iJmBk\nqpavw3MnnRsU9U/kTQnreb1vTmv2AcB0z0WWahwtLadtM7bIPK4+GmzcBK1H/dG2\nkT3bFGlvhS12hnVPKSptrjiiguqVYXAqyeoseaNKJb8je81Aty6ipQKBgEScPex7\nyYa+nQmJlFqvhcrCD86cDIsS4LATsl5gtMnSX/bPvy76prqUClUFOH3kJpbgl6mu\n+91PYI1xIVVvgTR7FZcw4hNQV/g0s+WZnT9d863zezJYmV3mWBER7Iv+xA+CEJAk\nWZ4Pc+V2k0Q58JSPre23fBqAIZeQcXtmx6wVAoGBAL/INlTOSA9dzzHcnwk7WKOo\ndrxmRq4QcyGl25zLjEFlDsZ2N3RXE1Bv+kE1bu2v2H3weqrpv5gcM82ToWhc44jI\nQo1PXZG0Go4MIEJ7ELsr5Pa5lLfIVY75W73VWzXI/VizygcwCwsPd16aqrhTNcMq\nG9asbZ3QJDDQx1pRVu0m\n-----END PRIVATE KEY-----\n",
+  "client_email": "comex-sheets@comex-471223.iam.gserviceaccount.com",
+  "client_id": "105871254213973205562",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/comex-sheets%40comex-471223.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
