@@ -12,7 +12,7 @@ def cargar_bd(spreedsheet):
 
     SCOPES = ['https://www.googleapis.com/auth/spreadsheets']
     KEY = 'key.json'
-    SS = '19HvKbrNvKE1TnNUvpw0B0NtNQEBNtYNes0VOhNhsHnY'
+    SS = '1XlQNfWHe7VDbcMuZo8L0R8UbbPVjb_MUaKofrwMLzDI'
 
     creds = None
     creds = service_account.Credentials.from_service_account_file(KEY, scopes=SCOPES)
