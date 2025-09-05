@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "turing-micron-417717",
+  "private_key_id": "762a0661525af3ba48092b1c3d7f582ec1c24967",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCrr7mBxu5Wxwr1\nD3XDNY7T1rTAzhMTXEKlqh/lUp9DwyAKVDlsDKmwWKU8B9CNwaf23OP6l0XvKTma\nLlVt5tlTNbZ8+kzCCVw6D4cTPolPVQDljQUFSSdlufzCsLsqYDZ8EIYphQ2TaJMx\nyyyGji2NU11gsByF+nu13nEfJXfrOCf4Q0uQTHaNVxCTdszoyNQEYV2K4d6S3qOF\niqcfbC3uNQR90GMETSW1AwJTq6yYEvlT1leEeQY906vPwF77IuhGfIJLoyfPpcqm\nAJxlIUk2Cvxk2/WsoklHBnwv+7jZxh8CI0NQYHnEl1n9yTuko4mjs4knf/pKvobQ\n5V0Fp7BTAgMBAAECggEAOfxHLLA59kASkNMQZIZ1v1FwSgAvzCWocthjHmpJ1TKV\nYzewDzC1rRQ7dmtzQjVqW8OeEhg+a/ih9lN40f4aX3KwOES3YP+VURzGc7b23D7q\n5xy6Wd8rub1Xw4+6HyVQsZVJIsPH4oX61OH4n1dsxiMmUg4ZDB0d5D6FOU5H0r7d\ny5cayZGOhkiY4P7R8mz5XUwKDIUSTuPK2nxLX6WWzpDezGFwR6XT/h3NWVVrXevx\ns1S2+oSx3WR/jA7XHqmBVPWWj6Pe9xVGwlI9Mk11jy3OnRPeoi8aVx0prlGVhOvu\npOBCgdB98kyVAzqOwdA/LNcNilcFO637ZqFYY8vKqQKBgQDoniNeM35gkLl+2zf0\nSQbi0OKbIVevF4ZVAno9Nsa58G8lzaA4dwmYCj+aReCwtGucPFiYFE9rbRhGo0xj\nEHKOR4qEd3BjonpIVHnss/Bgrev9VjdPjErwBUtjc/x7B6owggmnECys/ky972Hm\ngxQTwN9Ua9+MKx7eGxk7sbI6aQKBgQC88ao1JIuyrKG+FxxIa62okNHNd+Wr+xMr\nkCkXNZBqaz7fD6vkzGBcn59Gl8YbUKOdbaaJSnNgrH4cCCNhhWDJIu7IJO7i4kAp\nTtw5xibpUocCN0j6I314AeB3tjSSldpEUdyV5QTLR3w6eqDiJxJGIuB7/AAbMI8f\n/zyH4QXlWwKBgQDGtri98z1FXrynirus+mlgf1LldMFD+NOvcTNdcZqoIqXAZH03\nXzEZ6b9VmdYM/cNjrwV7vPXvbj2rsjpB8j36H1FMQgAHjTfq7AdP1pNE865CN1F+\nqfkmO0+ggOexbeXMFHoMdjvD+GU0Z/d5BIa1LTFbG9/XDMsMr5eJsA3x6QKBgF0+\nDbdIH8C/PNqoYQbETOEBBuiVILysnRtEe2K+xlQeNNqzyyqQSYWsKFgYEmXsd7H7\nKNJb8XBl7545zewUfF0GZjxTLai96tf32OqSBSXj2kiXq+X1mbedhX7OZkdouFw6\n4db/PExtLLtXRQoWKgh+sbW9+PdyEU/DD8YmoFg9AoGBAOBxlHxXavnsAb/omzV7\nwV4mRgUDs09iA4TcRRrv7G/L0nKxaHDtf2ngJviTXK/oWhdTYBbUR9rW62ZnCwan\nK1HclwxNaiCcB+tDmuKXR3lEGKoh1qgD33yko320SufmQynZco8/7yMBYoFropWe\nLO3Ni6MiZGriLqYov8WVnpNi\n-----END PRIVATE KEY-----\n",
+  "client_email": "sheets-comex@turing-micron-417717.iam.gserviceaccount.com",
+  "client_id": "109519554904711672998",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sheets-comex%40turing-micron-417717.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

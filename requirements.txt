@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+seaborn
+selenium
+undetected-chromedriver
+google-api-python-client
+google-auth
+google-auth-httplib2
+google-auth-oauthlib
+plotly-express
+dash
+jupyter-dash
+gunicorn
