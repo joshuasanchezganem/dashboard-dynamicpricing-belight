@@ -39,7 +39,7 @@ def cargar_bd(spreedsheet):
 
 pio.templates.default = "plotly"
 
-ss_query = 'Sheet1'
+ss_query = 'Hoja 1'
 
 df_final = cargar_bd(ss_query)
 
